@@ -1,4 +1,5 @@
-\# My first Git Repository
+
+#My first Git Repository
 
 This repository will have all sql codes .
 
